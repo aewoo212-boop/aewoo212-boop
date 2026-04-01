@@ -13,7 +13,9 @@ Right now, I am actively bridging the gap between classroom theory and real-worl
 
 ### Professional Certifications (Google)
 * **Foundations of Cybersecurity** - *Completed*
+  *[View Certificate](https://github.com/aewoo212-boop/Certifications/blob/main/Coursera3W2ZBL0HJHVE.pdf) 
 * **Play It Safe: Manage Security Risks** - *Completed*
+  *[View Certificate](https://github.com/aewoo212-boop/Certifications/blob/main/CourseraKA9PYANUB85M.pdf) 
 * **Connect and Protect: Networks and Network Security** - *In Progress*
 
 ### Let's Connect!
